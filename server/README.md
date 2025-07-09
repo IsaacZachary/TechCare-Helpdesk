@@ -130,4 +130,14 @@ server/
 └── README.md
 📄 License
 
+### 🌐 Supabase DB Connection
+
+- PostgreSQL Cloud DB powered by Supabase.
+- Connection uses IPv4-compatible pooler.
+- Supabase URL: `postgresql://...pooler.supabase.com...`
+
+To restore connection:
+1. Ensure Supabase project is active.
+2. Update `.env` with a working DB URL and password.
+
 MIT © @izach
