@@ -1,4 +1,3 @@
-```md
 # 🛠️ TechCare Helpdesk
 
 > A full-stack AI-ready ticketing system tailored for African IT support teams, educational institutions, and service desks. Built with ❤️ using modern developer tools.
