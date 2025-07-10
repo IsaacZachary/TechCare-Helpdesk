@@ -8,6 +8,7 @@ const { connectDB } = require('./config/db');
 const authRoutes = require('./routes/auth');
 const userRoutes = require('./routes/users');
 const ticketRoutes = require('./routes/tickets');
+const testEmailRoute = require('./routes/testEmail');
 const { errorHandler } = require('./middleware/errorHandler');
 
 const app = express();
@@ -29,6 +30,7 @@ connectDB();
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/tickets', ticketRoutes);
+app.use('/api', testEmailRoute);
 
 // Error handling
 app.use(errorHandler);
