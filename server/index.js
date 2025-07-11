@@ -1,3 +1,5 @@
+// TechCare Helpdesk Backend
+// © 2025 Isaac Zachary. All rights reserved.
 // Main entry point for TechCare Africa Helpdesk backend
 require('dotenv').config();
 const express = require('express');

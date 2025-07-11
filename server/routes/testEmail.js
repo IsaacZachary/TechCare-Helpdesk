@@ -1,3 +1,5 @@
+// TechCare Helpdesk Backend
+// © 2025 Isaac Zachary. All rights reserved.
 "use strict";
 const express = require("express");
 const router = express.Router();

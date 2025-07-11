@@ -1,3 +1,5 @@
+// TechCare Helpdesk Backend
+// © 2025 Isaac Zachary. All rights reserved.
 // utils/email.js
 const nodemailer = require('nodemailer');
 

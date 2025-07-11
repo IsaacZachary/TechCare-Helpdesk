@@ -1,3 +1,5 @@
+// TechCare Helpdesk Backend
+// © 2025 Isaac Zachary. All rights reserved.
 // routes/users.js
 const express = require('express');
 const { listUsers, changeUserRole, getActivityLogs } = require('../controllers/userController');

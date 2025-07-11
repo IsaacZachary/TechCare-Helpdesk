@@ -1,3 +1,5 @@
+// TechCare Helpdesk Backend
+// © 2025 Isaac Zachary. All rights reserved.
 // routes/auth.js
 const express = require('express');
 const { register, login } = require('../controllers/authController');

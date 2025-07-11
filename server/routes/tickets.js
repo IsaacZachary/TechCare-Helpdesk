@@ -1,3 +1,5 @@
+// TechCare Helpdesk Backend
+// © 2025 Isaac Zachary. All rights reserved.
 // routes/tickets.js
 const express = require('express');
 const { protect, authorize } = require('../middleware/auth');

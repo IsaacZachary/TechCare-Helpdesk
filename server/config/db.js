@@ -1,3 +1,5 @@
+// TechCare Helpdesk Backend
+// © 2025 Isaac Zachary. All rights reserved.
 // config/db.js
 // PostgreSQL connection setup for TechCare Africa Helpdesk
 const { Pool } = require('pg');
