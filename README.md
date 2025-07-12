@@ -27,19 +27,19 @@ Below are some key screenshots of the TechCare Helpdesk platform in action.
 
 | Login Screen | Choose Industry |
 |--------------|-----------------|
-| ![Login](docs/Screenshots/1. techcare-ticket-hub-login.jpg) | ![Industry](docs/Screenshots/2. techcare-ticket-hub-choose-industry.jpg) |
+| ![Login](docs/Screenshots/1.techcare-ticket-hub-login.jpg) | ![Industry](docs/Screenshots/2.techcare-ticket-hub-choose-industry.jpg) |
 
 | Dashboard | Create Ticket |
 |-----------|----------------|
-| ![Dashboard](docs/Screenshots/3. techcare-ticket-hub-dashboard.jpg) | ![Create Ticket](docs/Screenshots/4. techcare-ticket-hub-create-ticket.jpg) |
+| ![Dashboard](docs/Screenshots/3.techcare-ticket-hub-dashboard.jpg) | ![Create Ticket](docs/Screenshots/4.techcare-ticket-hub-create-ticket.jpg) |
 
 | Messages View | Chat Sample |
 |---------------|-------------|
-| ![Messages](docs/Screenshots/5. techcare-ticket-hub-messages.jpg) | ![Message Sample](docs/Screenshots/6. techcare-ticket-hub-messages-sample.jpg) |
+| ![Messages](docs/Screenshots/5.techcare-ticket-hub-messages.jpg) | ![Message Sample](docs/Screenshots/6.techcare-ticket-hub-messages-sample.jpg) |
 
 | Payments | Notification Settings |
 |----------|------------------------|
-| ![Payments](docs/Screenshots/7. techcare-ticket-hub-payments.jpg) | ![Notification Settings](docs/Screenshots/8. techcare-ticket-hub-payments-notification-settings.jpg) |
+| ![Payments](docs/Screenshots/7.techcare-ticket-hub-payments.jpg) | ![Notification Settings](docs/Screenshots/8.techcare-ticket-hub-payments-notification-settings.jpg) |
 
 > 💡 *These UI sections may change as features evolve. More previews coming soon.*
 
